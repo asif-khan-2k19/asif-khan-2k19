@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asif Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-khan-2k19&label=Profile%20views&color=0e75b6&style=flat" alt="asif-khan-2k19" /> </p>
-
+<h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asif-khan-2k19&column=5&margin-w=15&margin-h=15" alt="asif-khan-2k19" /></a> </p>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=asif-khan-2k19" alt="asif-khan-2k19" /> -->
-<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15 -->
+
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailblocks**
