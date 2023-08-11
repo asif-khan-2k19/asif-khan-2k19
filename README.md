@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asif-khan-2k19&column=5&margin-w=15&margin-h=15" alt="asif-khan-2k19" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=asif-khan-2k19&column=5&margin-w=15&margin-h=15" alt="asif-khan-2k19" /></p>
 
 - 🌱 I’m currently learning **React JS**
 
