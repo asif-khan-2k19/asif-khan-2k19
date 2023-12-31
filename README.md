@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohammadasifkhan619@gmail.com**
 
-- 📄 Know about my experiences [here.](https://myresume-cd975.web.app/)
+- 📄 Know about my experiences [here.](https://asif-khan-2k19.github.io/portfolio/)
 
 
 <h3 align="left">Connect with me:</h3>
