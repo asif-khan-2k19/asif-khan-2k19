@@ -1,1 +1,1 @@
-<img src="Readme_transparent.png" />
+<img src="Readme Transparent.png" />
